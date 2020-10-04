@@ -1,2 +1,2 @@
-#default ignore files
+#ignore IntelliJ configuration files
 /.idea/
